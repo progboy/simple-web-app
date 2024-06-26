@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.main-container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login-content{
+    border: 2px solid black;
+    width:fit-content;
+    padding: 10px;
+}
+#dashboard-data{
+    display:flex;
+    justify-content: center;
+}
+th,td{
+    padding: 5px 10px;
+    border: solid 2px black;
+}

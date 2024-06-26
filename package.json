@@ -1,0 +1,12 @@
+{
+  "main": "backend/server.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
